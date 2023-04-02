@@ -1,5 +1,1 @@
-My first readme
-echo 'My first readme' > README.md
-^C^C
-git push
-clear
+another readme fot 0.01.git
